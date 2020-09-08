@@ -10,6 +10,7 @@ Ne zaman ve kim tarafından?
 
 Javascript'in öne çıkan özellikleri nelerdir?
 
-- Client-side ve Server-side(Node.js) kullanılabilir.
+- Client-side ve Server-side(Node.js) kullanılabilir. Node.js - React - Jquery, React-Native, Electron.js
+- Dünyanın en büyük firmalarında ve projelerinde kullanılmış ve kendini kanıtlamıştır.
 - Single threated bir dildir.
 - Dünya'da en çok paket'e sahip dildir.
